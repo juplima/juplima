@@ -1,9 +1,5 @@
 <div align="center">
-  <img 
-    src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif"
-    width="100%"
-    height="560"
-  />
+  <img src="https://i.pinimg.com/originals/6a/8e/4d/6a8e4d2b450f10d3733422efc4e95526.gif" width="80%" />
 </div>
 
 <h2 align="left">Olá!  <br>Estudante de Programação | Projetos de estudo</h2>
