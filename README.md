@@ -30,6 +30,12 @@
 </div>
 
 ###
+##  About Me
+
+-  Programming student  
+-  Focused on learning and building practical projects  
+-  Currently studying Java, web development, and systems  
+-  Always improving my coding skills
 
 
 
