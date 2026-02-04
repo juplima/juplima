@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/49/ef/65/49ef6590e73e1b9bf6b2c36cff92637d.gif" width="80%" />
 </div>
 
-<h2 align="left">Olá!  <br>Estudante de Programação | Projetos de estudo</h2>
+<h2 align="left">Hello Word!😸  <br>Estudante de Programação | Projetos de estudo</h2>
 
 ###
 
