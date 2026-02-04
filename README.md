@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/6b/8b/9d/6b8b9d3c4c75eaafb73285ddd310a346.gif" width="60%" />
+  <img src="https://i.pinimg.com/originals/6b/8b/9d/6b8b9d3c4c75eaafb73285ddd310a346.gif" width="50%" />
 </div>
 
 <h2 align="left">Hello World!😸  <br>Programming Student | Academic & Personal Projects
